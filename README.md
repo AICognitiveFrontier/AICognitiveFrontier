@@ -15,7 +15,7 @@ I investigate the **mechanistic structures that shape model behavior at inferenc
 - **[Constraint Surface](ca://s?q=Explain_the_Constraint_Surface)** — the boundary conditions shaping allowable outputs  
 - **[Activation Regime](ca://s?q=Explain_the_Activation_Regime)** — the dynamic pattern of activations that stabilizes or destabilizes behavior  
 
-Together, these constructs form a **causal chain** explaining why models behave consistently — or fail catastrophically — across multi‑turn interactions.
+Together, these constructs form a **causal chain** explaining why models behave consistently—or fail catastrophically—across multi‑turn interactions.
 
 ---
 
@@ -44,13 +44,16 @@ It extends and complements *A Stability Envelope Is All You Need* by defining th
 - Developing **Stability Envelope diagrams** and mechanistic visualizations  
 - Publishing micro‑lessons and research explainers across platforms  
 - Preparing the **Mechanistic Constructs** reference library
+- Architecting **Clarity OS** an agentic AI-integrated human-first cognitive environment
 
 ---
 
 ## 🎥 Media & Content Tracks
 
 - **Today’s Finding** — short-form analysis of real-world AI behavior  
-- **Mechanistic Micro‑Lessons** — 60–120 sec structural explainers  
+- **Mechanistic Micro‑Lessons** — 60–120 sec structural explainers
+- **The Reality Gap** — Where perception ends and the system begins  
+- **The AI Cognitive Frontier** — Next‑gen AI foundations grounded in system architecture, cognition, and stability newsletter
 - **Catchproof** — investigative work on consumer protection and system failures  
 
 ---
@@ -59,5 +62,5 @@ It extends and complements *A Stability Envelope Is All You Need* by defining th
 
 - Stability Envelope DOI: https://doi.org/10.5281/zenodo.20481474  
 - Runtime Prior DOI: https://doi.org/10.5281/zenodo.20835691  
-- Catchproof: *(link when ready)*  
-- Medium: *(link when ready)*  
+- Catchproof: https://catchproof.square.site/
+- Medium: https://medium.com/the-reality-gap
