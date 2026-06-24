@@ -1,16 +1,14 @@
-## Hi there 👋
+# The AI Cognitive Frontier
 
-<!--
-**AICognitiveFrontier/AICognitiveFrontier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architect of *The Stability Envelope* · AI Systems Architecture · Interpretive‑State Mechanics
 
-Here are some ideas to get you started:
+## Related Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### System Prompts as Runtime Priors (2026)
+
+**DOI:** [10.5281/zenodo.20835691](https://doi.org/10.5281/zenodo.20835691)
+
+This paper introduces five new mechanistic constructs—runtime prior, interpretive state, constraint surface, activation regime, and stability envelope—completing the inference‑time causal chain and explaining why system prompts dominate model behavior.  
+It extends and complements *The Stability Envelope* by defining the upstream mechanism that produces stability across turns.
+
+- Zenodo: [https://doi.org/10.5281/zenodo.20835691](https://doi.org/10.5281/zenodo.20835691)
