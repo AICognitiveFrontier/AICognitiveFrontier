@@ -91,4 +91,4 @@ Together, they form a complete ecosystem:
 - Runtime Prior DOI: https://doi.org/10.5281/zenodo.20835691  
 - Catchproof: https://catchproof.square.site/
 - Medium: https://medium.com/the-reality-gap
-- LinkedIn: LinkedIn: https://www.linkedin.com/newsletters/the-ai-cognitive-frontier-7297617510444685312/
+- LinkedIn: https://www.linkedin.com/newsletters/the-ai-cognitive-frontier-7297617510444685312/
