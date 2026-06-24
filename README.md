@@ -32,8 +32,35 @@ It reframes inference as a **path‑dependent, stability‑bounded process**, ex
 ### **System Prompts as Runtime Priors (2026)**  
 **DOI:** https://doi.org/10.5281/zenodo.20835691
 
-This paper introduces five mechanistic constructs — **runtime prior**, **interpretive state**, **constraint surface**, **activation regime**, and **stability envelope** — completing the inference‑time causal chain and explaining why system prompts dominate model behavior.  
+This paper introduces five mechanistic constructs—**runtime prior**, **interpretive state**, **constraint surface**, **activation regime**, and **stability envelope**—completing the inference‑time causal chain and explaining why system prompts dominate model behavior.  
 It extends and complements *A Stability Envelope Is All You Need* by defining the **upstream mechanism** that produces stability across turns.
+
+---
+
+## 🧠 AI Systems Literacy™
+
+AI Systems Literacy™ is the **downstream, human‑facing discipline** I developed prior to publishing my mechanistic research.  
+It teaches people how to think, communicate, and operate effectively under AI‑shaped conditions—not by learning tools, but by learning **systems‑compatible cognition**.
+
+### Core Components
+- **Foundational Vocabulary** — the shared language needed to reason about system behavior  
+- **Pattern Library** — recurring failure modes, illusions, and interpretive traps  
+- **Applied Literacy Modules** — operational skills for safe, predictable AI interaction  
+- **Mechanism Literacy** — understanding how model behavior emerges from structure and managing un-bounded AI systems
+- **Certification** — a structured pathway for training and assessment  
+
+### Purpose
+AI Systems Literacy™ exists because traditional “AI literacy” focuses on *tools*, not *systems*.  
+This discipline fills the gap by teaching the **interpretive, cognitive, and structural skills** required to work safely and effectively with AI systems.
+
+### Relationship to Stability Envelope™ Theory
+AI Systems Literacy™ is the **downstream application layer**.  
+Stability Envelope™ Theory is the **upstream mechanistic layer**.
+
+Together, they form a complete ecosystem:
+
+- **Stability Envelope™ Theory** explains *why* models behave the way they do.  
+- **AI Systems Literacy™** teaches humans how to operate within those constraints.
 
 ---
 
@@ -64,3 +91,21 @@ It extends and complements *A Stability Envelope Is All You Need* by defining th
 - Runtime Prior DOI: https://doi.org/10.5281/zenodo.20835691  
 - Catchproof: https://catchproof.square.site/
 - Medium: https://medium.com/the-reality-gap
+- LinkedIn: <style>
+      .libutton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 7px;
+        text-align: center;
+        outline: none;
+        text-decoration: none !important;
+        color: #ffffff !important;
+        width: 200px;
+        height: 32px;
+        border-radius: 16px;
+        background-color: #0A66C2;
+        font-family: "SF Pro Text", Helvetica, sans-serif;
+      }
+    </style>
+<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7467959701964697600" target="_blank">Subscribe on LinkedIn</a>
