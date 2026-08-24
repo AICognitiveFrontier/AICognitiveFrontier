@@ -98,8 +98,9 @@ Together, they form a complete ecosystem:
 
 ## 🧩 Current Work
 
-- Formalizing **Stability Envelope™ Theory** as a discipline  
-Developing the Stability Envelope AI Safety Compliance Standard™ (SERS 1.0) — the first systems‑level safety and stability standard grounded in lawful state‑space boundaries
+- Formalizing **Stability Envelope™ Theory** as a discipline
+
+- Developing the **Stability Envelope AI Safety Compliance Standard™ (SERS 1.0)** — the first systems‑level safety and stability standard grounded in lawful state‑space boundaries
 
 - Defining the **AI System Causal Chain Spine™** — the complete upstream mechanism map governing model behavior, interpretive state, drift, and collapse
 
