@@ -34,7 +34,7 @@ Together, these constructs form a causal chain explaining why models behave co
 
 ## 📘 Core Publications
 
-### **A Stability Envelope Is All You Need: A Structural Correction to the Transformer Inference Model (2026)**  
+### **A Stability Envelope™ Is All You Need: A Structural Correction to the Transformer Inference Model (2026)**  
 **DOI:** https://doi.org/10.5281/zenodo.20481474
 
 This paper introduces the **Stability Envelope**, the missing structural constraint governing transformer inference.  
@@ -67,7 +67,7 @@ It explains how architectural statelessness enables non‑determinism, emergence
 
 ---
 
-### **Stable‑State Responsive Alignment: The Missing Layer in Human–AI Collaboration (2026)**  
+### **Stable‑State Responsive Alignment™: The Missing Layer in Human–AI Collaboration (2026)**  
 **DOI:** https://doi.org/10.5281/zenodo.20127247
 
 This paper introduces Stable‑State Responsive Alignment (SSRA), the interpretive‑governance layer that connects mechanistic stability to human collaboration.
@@ -82,9 +82,9 @@ AI Systems Literacy™ is the **downstream, human‑facing discipline** I develo
 It teaches people how to think, communicate, and operate effectively under AI‑shaped conditions—not by learning tools, but by learning **systems‑compatible cognition**.
 
 ### Core Components
-- **AI Systems Literacy Manifesto** — addresses epistemic instability—-the mismatch between how AI systems actually function and how
+- **AI Systems Literacy™ Manifesto** — addresses epistemic instability—-the mismatch between how AI systems actually function and how
 humans assume they function
-- **AI Systems Literacy Foundational Vocabulary** — the shared language needed to reason about system behavior  
+- **AI Systems Literacy™ Foundational Vocabulary** — the shared language needed to reason about system behavior  
 - **Pattern Library** — recurring failure modes, illusions, and interpretive traps  
 - **Applied Literacy Modules** — operational skills for safe, predictable AI interaction  
 - **Mechanism Literacy** — understanding how model behavior emerges from structure and managing un-bounded AI systems
@@ -139,10 +139,10 @@ Together, they form a complete ecosystem:
 
 ## 🌐 Links
 
-- Stability Envelope DOI: https://doi.org/10.5281/zenodo.20481474  
+- Stability Envelope™ DOI: https://doi.org/10.5281/zenodo.20481474  
 - Runtime Prior DOI: https://doi.org/10.5281/zenodo.20835691
 - AI Systems: Statelessness Reinterpreted DOI: https://doi.org/10.5281/zenodo.21196033
-- Stable‑State Responsive Alignment: The Missing Layer in Human–AI Collaboration DOI: https://doi.org/10.5281/zenodo.20127247
+- Stable‑State Responsive Alignment™: The Missing Layer in Human–AI Collaboration DOI: https://doi.org/10.5281/zenodo.20127247
 - Catchproof: https://catchproof.square.site/
 - Medium: https://medium.com/the-reality-gap
 - LinkedIn: https://www.linkedin.com/newsletters/the-ai-cognitive-frontier-7297617510444685312/
