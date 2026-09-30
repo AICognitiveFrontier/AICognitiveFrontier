@@ -108,6 +108,8 @@ Together, they form a complete ecosystem:
 
 ## 🧩 Current Work
 
+- Testing the **AI Drift Measurement Operator** across multiple models - see paper: Roy, B. (2026). The Stability Envelope™: A Mechanism‑Agnostic, Systems‑Level Boundary for AI State Stability. Zenodo. https://doi.org/10.5281/zenodo.23000253
+
 - Formalizing **Stability Envelope™ Theory** as a discipline
 
 - Developing the **Stability Envelope AI Safety Compliance Standard™ (SERS 1.0)** — the first systems‑level safety and stability standard grounded in lawful state‑space boundaries
