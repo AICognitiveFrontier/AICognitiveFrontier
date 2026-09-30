@@ -43,7 +43,8 @@ It reframes inference as a **path‑dependent, stability‑bounded process**, ex
 ---
 
 ### **The Stability Envelope™: A Mechanism‑Agnostic, Systems‑Level Boundary for AI State Stability (2026)**
-**DOI:** https://doi.org/10.5281/zenodo.22730508
+**DOI:** https://doi.org/10.5281/zenodo.23000253
+
 
 This paper introduces the first drift‑measurement operator capable of detecting when an AI system’s internal state begins to deviate from its intended baseline. It establishes the Stability Envelope™ as a mechanism‑layer boundary for AI state stability, enabling safety teams and regulators to quantify drift directly rather than infer it from downstream behavior.
 
